@@ -73,4 +73,4 @@ Welcome to the **Machine Learning Basics** repository! Whether you're a total be
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/machine-learning-basics.git
+   git clone [https://github.com/yourusername/machine-learning-basics.git](https://github.com/lieson-bit/Machine-Learning-Basics)
